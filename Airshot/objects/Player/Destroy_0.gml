@@ -1,0 +1,11 @@
+ds_list_destroy(unit_effect_id);
+ds_list_destroy(unit_effect_tick);
+ds_list_destroy(unit_effect_tick_origin);
+ds_list_destroy(unit_effect_amount);
+ds_list_destroy(unit_effect_amount_origin);
+ds_list_destroy(unit_effect_first);
+ds_list_destroy(unit_effect_sender);
+ds_list_destroy(unit_damage_id);
+ds_list_destroy(unit_damage_amount);
+ds_list_destroy(unit_damage_sender);
+ds_list_destroy(unit_skill_record);

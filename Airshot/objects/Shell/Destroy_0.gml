@@ -1,0 +1,1 @@
+part_emitter_destroy(global.partSys,partEmit);

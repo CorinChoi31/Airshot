@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "SPR_Airships",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,30 +27,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0c5a5227-8100-489c-a61f-a44f7dd59b14","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0c5a5227-8100-489c-a61f-a44f7dd59b14","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"0c5a5227-8100-489c-a61f-a44f7dd59b14","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f2f9c652-b0a5-4563-8b5e-a73f64de1024","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f2f9c652-b0a5-4563-8b5e-a73f64de1024","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"f2f9c652-b0a5-4563-8b5e-a73f64de1024","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2797cd7b-1c1d-4d0e-be5b-958ec5c76f0a","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2797cd7b-1c1d-4d0e-be5b-958ec5c76f0a","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"2797cd7b-1c1d-4d0e-be5b-958ec5c76f0a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d6a48b30-e0e0-48a5-a87e-0d0fdd15cf11","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d6a48b30-e0e0-48a5-a87e-0d0fdd15cf11","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"d6a48b30-e0e0-48a5-a87e-0d0fdd15cf11","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"16ed4085-a03b-41b1-9633-1b43df23e593","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"16ed4085-a03b-41b1-9633-1b43df23e593","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"16ed4085-a03b-41b1-9633-1b43df23e593","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fd89f971-2ab7-4bcf-bf8b-580b7e4fce13","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fd89f971-2ab7-4bcf-bf8b-580b7e4fce13","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"fd89f971-2ab7-4bcf-bf8b-580b7e4fce13","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5504cac0-27c1-4190-abfd-11c8f460fd2b","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5504cac0-27c1-4190-abfd-11c8f460fd2b","path":"sprites/SPR_Airships/SPR_Airships.yy",},"LayerId":{"name":"5100865f-e31a-4b33-9add-ca31ede17a86","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","name":"5504cac0-27c1-4190-abfd-11c8f460fd2b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0c5a5227-8100-489c-a61f-a44f7dd59b14",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f2f9c652-b0a5-4563-8b5e-a73f64de1024",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2797cd7b-1c1d-4d0e-be5b-958ec5c76f0a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d6a48b30-e0e0-48a5-a87e-0d0fdd15cf11",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"16ed4085-a03b-41b1-9633-1b43df23e593",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fd89f971-2ab7-4bcf-bf8b-580b7e4fce13",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5504cac0-27c1-4190-abfd-11c8f460fd2b",},
   ],
   "sequence": {
-    "spriteId": {"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "SPR_Airships",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -58,7 +49,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"24b129a9-d84f-4ece-965e-4b858980af05","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0c5a5227-8100-489c-a61f-a44f7dd59b14","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"00ffbf0b-9807-4d9a-89c2-535e3027696d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f2f9c652-b0a5-4563-8b5e-a73f64de1024","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8a5f41b4-0278-4bef-aab1-8624c1f0f9f4","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2797cd7b-1c1d-4d0e-be5b-958ec5c76f0a","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -66,7 +57,7 @@
             {"id":"e7e63811-0a2c-4515-828c-0dbf2ffc6fe2","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"16ed4085-a03b-41b1-9633-1b43df23e593","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b56a568b-0eaa-421d-aabe-0cf1987cf1d2","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd89f971-2ab7-4bcf-bf8b-580b7e4fce13","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"857909c2-09c2-4d0c-a82a-3e740289900e","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5504cac0-27c1-4190-abfd-11c8f460fd2b","path":"sprites/SPR_Airships/SPR_Airships.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -82,22 +73,13 @@
     "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"SPR_Airships","path":"sprites/SPR_Airships/SPR_Airships.yy",},
-    "resourceVersion": "1.3",
-    "name": "SPR_Airships",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5100865f-e31a-4b33-9add-ca31ede17a86","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5100865f-e31a-4b33-9add-ca31ede17a86","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "SPR_Airships",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

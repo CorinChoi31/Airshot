@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "HEARTSTONE",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,99 +27,41 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e792c2fc-8faf-4103-80d8-a0b793f68827","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e792c2fc-8faf-4103-80d8-a0b793f68827","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"e792c2fc-8faf-4103-80d8-a0b793f68827","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4dd24c03-574d-4f81-b0c5-653a9f3ae8e6","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4dd24c03-574d-4f81-b0c5-653a9f3ae8e6","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"4dd24c03-574d-4f81-b0c5-653a9f3ae8e6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"599df046-5c0d-4c79-82e7-9ac48653e52c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"599df046-5c0d-4c79-82e7-9ac48653e52c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"599df046-5c0d-4c79-82e7-9ac48653e52c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"74ad3416-6c04-4002-a5fa-ab7417e9f76c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"74ad3416-6c04-4002-a5fa-ab7417e9f76c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"74ad3416-6c04-4002-a5fa-ab7417e9f76c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b0f55d64-b228-4ced-bbfd-dc1a2074417e","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b0f55d64-b228-4ced-bbfd-dc1a2074417e","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"b0f55d64-b228-4ced-bbfd-dc1a2074417e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"599a04e9-127b-451c-b9e6-53789c9dac28","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"599a04e9-127b-451c-b9e6-53789c9dac28","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"599a04e9-127b-451c-b9e6-53789c9dac28","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4463ec4d-fdc3-43f2-8669-90266826687b","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4463ec4d-fdc3-43f2-8669-90266826687b","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"4463ec4d-fdc3-43f2-8669-90266826687b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"85d41b5b-9c25-40e9-9aea-297169f6c22c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"85d41b5b-9c25-40e9-9aea-297169f6c22c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"85d41b5b-9c25-40e9-9aea-297169f6c22c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d9fa3126-6d1f-4aef-867c-60be60302dd9","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d9fa3126-6d1f-4aef-867c-60be60302dd9","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"d9fa3126-6d1f-4aef-867c-60be60302dd9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"44821103-4baf-4711-9f7d-b96d47594711","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"44821103-4baf-4711-9f7d-b96d47594711","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"44821103-4baf-4711-9f7d-b96d47594711","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"448b3264-f1c9-4b14-b2a7-f5270975a0fc","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"448b3264-f1c9-4b14-b2a7-f5270975a0fc","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"448b3264-f1c9-4b14-b2a7-f5270975a0fc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4c9f96ae-d33f-4b46-b715-57c450fd124e","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4c9f96ae-d33f-4b46-b715-57c450fd124e","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"4c9f96ae-d33f-4b46-b715-57c450fd124e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c4b333c4-1570-4133-bca7-0da1b5ebea90","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c4b333c4-1570-4133-bca7-0da1b5ebea90","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"c4b333c4-1570-4133-bca7-0da1b5ebea90","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b555d683-a5f0-4abb-b8a3-180c66144bc7","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b555d683-a5f0-4abb-b8a3-180c66144bc7","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"b555d683-a5f0-4abb-b8a3-180c66144bc7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ffcee412-4970-4335-abcb-86e0d1cce07b","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ffcee412-4970-4335-abcb-86e0d1cce07b","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"ffcee412-4970-4335-abcb-86e0d1cce07b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"69146b5d-270b-4e8c-8c93-0f05a16a0cb1","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"69146b5d-270b-4e8c-8c93-0f05a16a0cb1","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"69146b5d-270b-4e8c-8c93-0f05a16a0cb1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"09b59158-09fe-4565-8568-cb5b1ef20e0e","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"09b59158-09fe-4565-8568-cb5b1ef20e0e","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"09b59158-09fe-4565-8568-cb5b1ef20e0e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"961cce0a-7e65-4f6e-87e3-b00cbbf3e1d9","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"961cce0a-7e65-4f6e-87e3-b00cbbf3e1d9","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"961cce0a-7e65-4f6e-87e3-b00cbbf3e1d9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ef71e8a9-2578-4d80-b5b1-5c10c4c2cc5d","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ef71e8a9-2578-4d80-b5b1-5c10c4c2cc5d","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"ef71e8a9-2578-4d80-b5b1-5c10c4c2cc5d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e92953e9-71e6-438f-bba1-761cf6a7a2c3","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e92953e9-71e6-438f-bba1-761cf6a7a2c3","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"e92953e9-71e6-438f-bba1-761cf6a7a2c3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"784bd50e-ec8b-4d1b-b5e2-e80dd92959a4","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"784bd50e-ec8b-4d1b-b5e2-e80dd92959a4","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"784bd50e-ec8b-4d1b-b5e2-e80dd92959a4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6d963d90-d2b8-457c-a303-9e6102b7a2d4","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6d963d90-d2b8-457c-a303-9e6102b7a2d4","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"6d963d90-d2b8-457c-a303-9e6102b7a2d4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e7d7de2a-85df-46d4-a726-d5961e8332d1","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e7d7de2a-85df-46d4-a726-d5961e8332d1","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"e7d7de2a-85df-46d4-a726-d5961e8332d1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b161d4d4-c872-4955-a7f1-d5f18dc34c5a","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b161d4d4-c872-4955-a7f1-d5f18dc34c5a","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"b161d4d4-c872-4955-a7f1-d5f18dc34c5a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d55dec37-6e91-4df1-8807-f10ea8af6f57","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d55dec37-6e91-4df1-8807-f10ea8af6f57","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"d55dec37-6e91-4df1-8807-f10ea8af6f57","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"052eeaed-10e8-404a-ba2e-960ddc5817a4","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"052eeaed-10e8-404a-ba2e-960ddc5817a4","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"052eeaed-10e8-404a-ba2e-960ddc5817a4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a6a95605-2b7e-42d5-9c05-01d7c03c6947","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a6a95605-2b7e-42d5-9c05-01d7c03c6947","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"a6a95605-2b7e-42d5-9c05-01d7c03c6947","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"530c4cca-1112-48ae-b7fb-46ca6bbe2cde","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"530c4cca-1112-48ae-b7fb-46ca6bbe2cde","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"530c4cca-1112-48ae-b7fb-46ca6bbe2cde","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8bb8fe1e-fdc3-4750-ad5a-7cfb9fac7d87","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8bb8fe1e-fdc3-4750-ad5a-7cfb9fac7d87","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"8bb8fe1e-fdc3-4750-ad5a-7cfb9fac7d87","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c27f72a4-b726-4d8d-8f5a-e3306df49de8","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c27f72a4-b726-4d8d-8f5a-e3306df49de8","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"LayerId":{"name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","name":"c27f72a4-b726-4d8d-8f5a-e3306df49de8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e792c2fc-8faf-4103-80d8-a0b793f68827",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4dd24c03-574d-4f81-b0c5-653a9f3ae8e6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"599df046-5c0d-4c79-82e7-9ac48653e52c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"74ad3416-6c04-4002-a5fa-ab7417e9f76c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b0f55d64-b228-4ced-bbfd-dc1a2074417e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"599a04e9-127b-451c-b9e6-53789c9dac28",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4463ec4d-fdc3-43f2-8669-90266826687b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"85d41b5b-9c25-40e9-9aea-297169f6c22c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d9fa3126-6d1f-4aef-867c-60be60302dd9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44821103-4baf-4711-9f7d-b96d47594711",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"448b3264-f1c9-4b14-b2a7-f5270975a0fc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4c9f96ae-d33f-4b46-b715-57c450fd124e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c4b333c4-1570-4133-bca7-0da1b5ebea90",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b555d683-a5f0-4abb-b8a3-180c66144bc7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ffcee412-4970-4335-abcb-86e0d1cce07b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"69146b5d-270b-4e8c-8c93-0f05a16a0cb1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"09b59158-09fe-4565-8568-cb5b1ef20e0e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"961cce0a-7e65-4f6e-87e3-b00cbbf3e1d9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ef71e8a9-2578-4d80-b5b1-5c10c4c2cc5d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e92953e9-71e6-438f-bba1-761cf6a7a2c3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"784bd50e-ec8b-4d1b-b5e2-e80dd92959a4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d963d90-d2b8-457c-a303-9e6102b7a2d4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e7d7de2a-85df-46d4-a726-d5961e8332d1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b161d4d4-c872-4955-a7f1-d5f18dc34c5a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d55dec37-6e91-4df1-8807-f10ea8af6f57",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"052eeaed-10e8-404a-ba2e-960ddc5817a4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a6a95605-2b7e-42d5-9c05-01d7c03c6947",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"530c4cca-1112-48ae-b7fb-46ca6bbe2cde",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8bb8fe1e-fdc3-4750-ad5a-7cfb9fac7d87",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c27f72a4-b726-4d8d-8f5a-e3306df49de8",},
   ],
   "sequence": {
-    "spriteId": {"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 60.0,
@@ -127,7 +72,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"5b2a29e9-c745-422e-a9c7-e10da46d51b7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e792c2fc-8faf-4103-80d8-a0b793f68827","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"658659d9-9e1d-4972-ab19-b4e88a9cee3d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4dd24c03-574d-4f81-b0c5-653a9f3ae8e6","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3d0f96f5-5932-4475-ac0b-745b7d6422f3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"599df046-5c0d-4c79-82e7-9ac48653e52c","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -158,7 +103,7 @@
             {"id":"e6840886-605d-49ad-bc82-00a6dd38f70f","Key":27.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"530c4cca-1112-48ae-b7fb-46ca6bbe2cde","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c7568cef-563f-4d17-a908-ec07321c38da","Key":28.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8bb8fe1e-fdc3-4750-ad5a-7cfb9fac7d87","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f4f06411-4f6f-4dba-8b4e-2c7383f109b0","Key":29.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c27f72a4-b726-4d8d-8f5a-e3306df49de8","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -174,22 +119,13 @@
     "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"HEARTSTONE","path":"sprites/HEARTSTONE/HEARTSTONE.yy",},
-    "resourceVersion": "1.3",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6117dc18-5b3b-448f-93df-baf86b0e1bc5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "HEARTSTONE",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
